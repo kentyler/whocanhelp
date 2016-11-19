@@ -1,0 +1,8 @@
+mapping-id: "6e63375f774f2b8be12021a2860f5073"
+mapping-type: "regular"
+mapping-virtual-path: "/context"
+mapping-hidden: false
+mapping-physical-first: true
+mapping-readonly: false
+mapping-top-level: true
+mapping-inspect: ""
