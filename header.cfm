@@ -1,5 +1,5 @@
 <head>
-<cfif left(cgi.server_name,3) IS "dev">D
+<cfif left(cgi.server_name,3) IS "dev">D-
 </cfif>
 <script src="https://www.whocanhelp.org/jquery.js"></script>
 <link rel="shortcut icon" href="https://www.whocanhelp.org/files/whocanhelp.png" type="image/x-icon">
